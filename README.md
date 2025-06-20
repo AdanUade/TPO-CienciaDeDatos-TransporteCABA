@@ -16,8 +16,6 @@ La red de transporte público de CABA enfrenta un desequilibrio crónico entre l
 ### Hipótesis
 Creemos que es posible **predecir con alta precisión la cantidad de viajes en colectivo** para cualquier franja horaria y comuna de la Ciudad de Buenos Aires. Un modelo de regresión preciso que prediga la cantidad de viajes por hora y por comuna, permitiendo una planificación de rutas más inteligente y eficiente.
 
----
-
 ## Metodología y Pipeline de Datos
 
 El proyecto sigue el ciclo de vida CRISP-DM, abarcando desde la preparación de los datos hasta el modelado y la evaluación.
@@ -36,8 +34,6 @@ El proyecto sigue el ciclo de vida CRISP-DM, abarcando desde la preparación de 
 - **Tipo de Problema:** Regresión.
 - **Algoritmo Seleccionado:** **`RandomForestRegressor`** Se eligió por su alta capacidad para capturar relaciones no lineales complejas (como los picos de demanda) y su robustez, sin necesidad de escalar los datos.
 - **División de Datos:** El conjunto de datos de demanda se dividió en 80% para entrenamiento y 20% para prueba, asegurando una evaluación objetiva del modelo.
-
----
 
 ### Evaluación
 
