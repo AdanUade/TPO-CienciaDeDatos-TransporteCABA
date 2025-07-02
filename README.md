@@ -4,8 +4,8 @@
 **Integrantes:**
 *   **[Adan Rodriguez]** - *[1174251]*
 *   **[Ivo Biscardi]** - *[1132206]*
-*   **[Bratti, Conrado Stefano] - *[1134447]*
-*   **[Nicolás Ferreyra] - *[1143773]*
+*   **[Bratti, Conrado Stefano]** - *[1134447]*
+*   **[Nicolás Ferreyra]** - *[1143773]*
 
 ---
 
